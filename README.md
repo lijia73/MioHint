@@ -1,11 +1,11 @@
 # MioHint: LLM-Assisted Request Mutation for Whitebox REST API Testing
 
-In this package, we provide necessary information for replicating the experiment in the paper that includes 
-
+In this package, we provide necessary information for replicating the experiment in the paper that includes
 
 ## Build MioHint
 
-Go to the root, run 
+Go to the root, run
+
 > `mvn clean install -DskipTests`
 
 `jar` file would be found under `core/target`.
@@ -29,6 +29,7 @@ The above command will produce scripts to execute the experiments. Additional in
 The below archives contains results from the experiments we conducted.
 
 - experiment_origin.zip
+- experiment_supplement.zip
 
 You can analyse these using the `scripts/satistic.py <logPath>`, for example
 
