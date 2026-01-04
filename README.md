@@ -51,12 +51,11 @@ We ran experiments on EMB based on the provided guidelines from the authors. You
 
 ```
 @inproceedings{Li2026MioHint,
-  title        = {LLM-assisted Mutation for Whitebox API Testing},
+  title        = {MioHint: LLM-Assisted Request Mutation for Whitebox REST API Testing},
   author       = {Li, Jia and Shen, Jiacheng and Su, Yuxin and Lyu, Michael R.},
   booktitle    = {Proceedings of the 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE '26)},
   year         = {2026},
-  publisher    = {ACM},
-  pages        = {1--12},
+  publisher    = {Association for Computing Machinery}},
   doi          = {10.1145/3744916.3773228}
 }
 ```
