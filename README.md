@@ -46,3 +46,17 @@ We ran experiments on EMB based on the provided guidelines from the authors. You
 - [EMB](https://github.com/EMResearch/EMB/blob/master/README.md): you can find more information about building case studies
 - [EvoMaster](https://github.com/EMResearch/EvoMaster/blob/master/docs/build.md): you can find more information about building EvoMaster
 - [Replicating Studies](https://github.com/EMResearch/EvoMaster/blob/master/docs/replicating_studies.md): you can find more information about how to replicate studies
+
+## Reference
+
+```
+@inproceedings{Li2026MioHint,
+  title        = {LLM-assisted Mutation for Whitebox API Testing},
+  author       = {Li, Jia and Shen, Jiacheng and Su, Yuxin and Lyu, Michael R.},
+  booktitle    = {Proceedings of the 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE '26)},
+  year         = {2026},
+  publisher    = {ACM},
+  pages        = {1--12},
+  doi          = {10.1145/3744916.3773228}
+}
+```
